@@ -1,0 +1,5 @@
+Often, you may want to change the current working directory, so that you can access different subdirectories and files.
+
+To change directories, use the command cd followed by the name of the directory (e.g. cd downloads). Then, you can print your current working directory again to check the new path.
+
+For example, you can change the working directory to an existing documents directory under your home directory, and then check that the current working directory has been updated.
